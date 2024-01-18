@@ -19,7 +19,6 @@ Dataset
     Data Cleaning: Checking for missing values, handling inconsistencies, and preparing the data for analysis.
     Exploratory Data Analysis (EDA): Exploring the dataset to understand its structure, summary statistics, and initial insights.
     Data Visualization: Creating visualizations such as line plots, bar charts, or pie charts to illustrate sales trends, popular products, or any other relevant patterns.
-    Conclusions: Summarize the findings and key insights obtained from the analysis.
 
 ## Conclusion
 
